@@ -1,0 +1,5 @@
+﻿  Shader.cpp
+C:\Users\Profe\source\repos\laba1\laba1\Shader.cpp(52,42): warning C4101: e: неиспользованная локальная переменная
+  laba1.cpp
+  Создание кода...
+  laba1.vcxproj -> C:\Users\Profe\source\repos\laba1\x64\Debug\laba1.exe
